@@ -1,7 +1,10 @@
 plugins {
     id 'java-library'
-	id 'eclipse'
-	id 'maven-publish'
+}
+
+compileJava {
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
 }
 
 group 'bariss26.valueholder' // Replace with your group ID

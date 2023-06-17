@@ -36,32 +36,32 @@ public class ValueHolder<T> {
 		return (String)value;
 	}
 
-	public int getInt() {
-		return (int)value;
+	public Integer getInt() {
+		return (Integer)value;
 	}
 
-	public double getDouble() {
-		return (double)value;
+	public Double getDouble() {
+		return (Double)value;
 	}
 
-	public float getFloat() {
-		return (float)value;
+	public Float getFloat() {
+		return (Float)value;
 	}
 
-	public long getLong() {
-		return (long)value;
+	public Long getLong() {
+		return (Long)value;
 	}
 
-	public short getShort() {
-		return (short)value;
+	public Short getShort() {
+		return (Short)value;
 	}
 
-	public byte getByte() {
-		return (byte)value;
+	public Byte getByte() {
+		return (Byte)value;
 	}
 
-	public boolean getBoolean() {
-		return (boolean)value;
+	public Boolean getBoolean() {
+		return (Boolean)value;
 	}
 
 
