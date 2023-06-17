@@ -1,4 +1,4 @@
 # deger-tutucu
-Pointer işlevli sınıf ve bu sınıfın tuttuğu değeri zamanla belirlenen yöntemle değiştiren animasyon sistemi.
+Value holder which holds a generic type as a field kind of doing a pointers job and an animation system which helps interpolate and change the value held by time using user specified functions.
 
-Kullanım için Ornek.java dosyasını inceleyin.
+See Demo.java for usage example.
