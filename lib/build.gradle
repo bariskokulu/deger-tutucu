@@ -1,6 +1,12 @@
 plugins {
     id 'java-library'
+	id 'eclipse'
+	id 'maven-publish'
 }
+
+group 'bariss26.valueholder' // Replace with your group ID
+version '1.1' // Replace with your version
+jar.archiveFileName = "valueholder-${project.version}.jar"
 
 repositories {
 
