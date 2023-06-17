@@ -9,7 +9,7 @@ compileJava {
 }
 
 group 'com.github.bariskokulu' // Replace with your group ID
-version '1.1.1' // Replace with your version
+version '1.1.2' // Replace with your version
 archivesBaseName = "valueholder"
 jar.archiveFileName = "valueholder-${project.version}.jar"
 
